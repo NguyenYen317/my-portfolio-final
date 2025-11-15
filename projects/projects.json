@@ -1,32 +1,32 @@
 [
   {
-    "name": "Website Quản Lý Tiệm Làm Tóc",
-    "desc": "Hệ thống quản lý lịch hẹn, khách hàng và dịch vụ cho tiệm làm tóc. Giao diện thân thiện, dễ sử dụng.",
-    "image": "SalonHero",
+    "name": "Hair Salon Management Website",
+    "desc": "Major Assignment for the Software Engineering course: Build a system to manage appointments, customers, and services for a hair salon.",
+    "image": "hairsalon",
     "category": "web",
     "links": {
       "view": "#",
-      "code": "#"
+      "code": "https://github.com/thanhtung111205/CNPM-nh-m-4-65HTTT.git"
     }
   },
   {
-    "name": "Website Quản Lý Chuỗi Cửa Hàng Tạp Hóa",
-    "desc": "Ứng dụng web hỗ trợ quản lý hàng hóa, nhập – xuất – tồn và doanh thu của chuỗi cửa hàng tạp hóa.",
+    "name": "Grocery Store Management Website.",
+    "desc": "Course Project for System Analysis and Design (PTTK): A web application that supports product management, stock-in, stock-out, inventory tracking, and revenue management for a grocery store.",
     "image": "taphoa",
     "category": "web",
     "links": {
       "view": "#",
-      "code": "#"
+      "code": "https://github.com/NguyenYen317/PTTK_QuanLyChuoiCuaHangTapHoa.git"
     }
   },
   {
-    "name": "Website Quản Lý Cửa Hàng Bán Quần Áo",
-    "desc": "Hệ thống quản lý sản phẩm, hóa đơn, khách hàng và doanh thu cho cửa hàng quần áo thời trang.",
-    "image": "quanao",
+    "name": "Fashion Store Management Website.",
+    "desc": "Course Project for IT Project Management (QLDA): Developing a system to manage products, invoices, customers, and revenue for a fashion clothing store.",
+    "image": "thotrang",
     "category": "web",
     "links": {
       "view": "#",
-      "code": "#"
+      "code": "https://github.com/NguyenYen317/QLDACNTT_WebQlyCuaHangThoiTrang.git"
     }
   } 
 ]
