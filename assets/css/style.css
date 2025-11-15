@@ -70,7 +70,7 @@ header {
   justify-content: space-between;
   padding: 1.7rem 10%;
   height: 6.5rem;
-  background-color: #fff;
+  background-color: #ffffff;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.3);
 }
 section {
@@ -349,7 +349,7 @@ header .navbar ul li a:hover {
 
 /* about section starts */
 .about {
-  background: rgb(255, 255, 255);
+  background: rgb(201, 226, 230);
 }
 .about .row {
   display: flex;
@@ -705,6 +705,7 @@ header .navbar ul li a:hover {
   flex-direction: column;
   justify-content: center;
 }
+
 .work .desc p {
   font-size: 1.5rem;
 }
