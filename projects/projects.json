@@ -2,7 +2,7 @@
   {
     "name": "Hair Salon Management Website",
     "desc": "Major Assignment for the Software Engineering course: Build a system to manage appointments, customers, and services for a hair salon.",
-    "image": "notystackandroid",
+    "image": "hairsalon",
     "category": "web",
     "links": {
       "view": "#",
@@ -12,7 +12,7 @@
   {
     "name": "Grocery Store Management Website.",
     "desc": "Course Project for System Analysis and Design (PTTK): A web application that supports product management, stock-in, stock-out, inventory tracking, and revenue management for a grocery store.",
-    "image": "sppuprepandroid",
+    "image": "taphoa",
     "category": "web",
     "links": {
       "view": "#",
@@ -22,7 +22,7 @@
   {
     "name": "Fashion Store Management Website.",
     "desc": "Course Project for IT Project Management (QLDA): Developing a system to manage products, invoices, customers, and revenue for a fashion clothing store.",
-    "image": "newsboxandroid",
+    "image": "thotrang",
     "category": "web",
     "links": {
       "view": "#",
